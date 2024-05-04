@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "tennis ",
+    "precio": "4000"
+  },
+  {
+    "nombre": "football",
+    "precio": "7999999"
+  },
+  {
+    "nombre": "snowboard",
+    "precio": "4000"
+  },
+  {
+    "nombre": "ski",
+    "precio": "30000"
+  },
+  {
+    "nombre": "hockey",
+    "precio": "60000"
+  },
+  {
+    "nombre": "rugby",
+    "precio": "45"
+  },
+  {
+    "nombre": "golf",
+    "precio": "2000"
+  },
+  {
+    "nombre": "judo",
+    "precio": "5000"
+  },
+  {
+    "nombre": "volleyball",
+    "precio": "32323"
+  }
+]

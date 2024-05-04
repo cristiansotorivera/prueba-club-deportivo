@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("../img/sports.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(230, 130, 48);
+    font-weight: bold;
+}
